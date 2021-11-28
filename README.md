@@ -13,4 +13,4 @@ Note:
 File to crate database are in sql_script folder.
 
 CRM:  
-![CRM](./img/app design.png)
+![App design](app.png)
