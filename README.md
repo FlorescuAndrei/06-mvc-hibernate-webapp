@@ -15,4 +15,6 @@ Note:
 File to crate database are in sql_script folder.
 
 CRM:  
-![App design](app.png)
+![App design](app.png)  
+
+[BACK TO START PAGE](https://github.com/FlorescuAndrei/Start.git) 
