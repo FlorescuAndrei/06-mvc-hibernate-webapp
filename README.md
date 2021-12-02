@@ -8,6 +8,8 @@ Add new customer.
 Update existing customer.  
 Delete customer.  
 
+Use Spring AOP to colect info on the methods.
+
 
 Note:  
 File to crate database are in sql_script folder.
