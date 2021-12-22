@@ -28,8 +28,9 @@ LIB:
   - Hibernate support: hibernate – lib – required; hibernate- lib – optional –c3po ;
   - mysql-connector  
   - AOP support:  aspectJwever,  
-  - javax.servlet.jsp.jstl-api-1.2.1, javax.servlet.jsp.jstl-1.2.1.
-(Not a Maven project)  
+  - javax.servlet.jsp.jstl-api-1.2.1, javax.servlet.jsp.jstl-1.2.1.  
+ 
+ (Not a Maven project)  
 
 
 CRM:  
